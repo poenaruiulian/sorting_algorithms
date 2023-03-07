@@ -3,7 +3,7 @@
 import random
 
 #n = int(input("Write the number of numbers you want to sort: "))
-n = 10
+n = 1000000
 
 with open("input.txt","w") as f:
     for i in range(n - n//4):
