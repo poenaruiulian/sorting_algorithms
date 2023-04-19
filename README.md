@@ -11,6 +11,3 @@ This repo contains my first activity regarding a university course: Methods and 
 - Tim sort
 
 Also you in the *Generators* folder you can find the input generators I used.
-
-### Documentation: 
-- [Geeks for geeks](https://www.geeksforgeeks.org/sorting-algorithms/)

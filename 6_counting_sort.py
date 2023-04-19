@@ -2,7 +2,7 @@ import time
 a = []
 
 for x in range(100):
-    with open("input.txt","r") as f:
+    with open("generators/input.txt","r") as f:
         r = f.readlines()
         for i in r: 
             row = i.split(" ")
